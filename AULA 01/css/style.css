@@ -1,0 +1,33 @@
+body {
+    background-color: darkgrey;
+}
+
+/*Adicionando imagem no fundo de um elemento */
+
+.ex1 {
+    background-image: url("../img/madeira.jpg");
+    color: greenyellow;
+}
+
+/* Ajustando repetição de imagem no fundo do elemento */
+.ex2 {
+    background-image: url("../img/grass.png");
+    height: 100px;
+    background-repeat: repeat-x;
+    align-content: center;
+}
+
+.ex3 {
+     background-image: url("../img/grass.png");
+    height: 100px;
+    background-repeat: repeat-y;
+    align-content: center;
+}
+
+.ex4 {
+     background-image: url("../img/grass.png");
+    height: 100px;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
