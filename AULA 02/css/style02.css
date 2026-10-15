@@ -1,0 +1,14 @@
+/*Utilizando o background-attachment para fundos */
+
+body {
+    font-family: sans-serif;
+    background-image: url(../img/Monet.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*Utilizando a propriedade abreviada para background */
+.ex2 {
+    background: url("../img/grass.png") no-repeat #999;
+    color: white;
+}
