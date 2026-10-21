@@ -1,0 +1,22 @@
+body {
+    background-color: #023BE6;
+    font-family: monospace;
+    color: lightgrey;
+}
+
+.container {
+    background-color: lightgrey;
+    color: #011142;
+    border: 4px solid midnightblue;
+    padding: 10px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: auto auto auto;
+}
+
+.container div {
+    background-color: #b1c2f3;
+    border: 4px solid  #011C6B;
+    text-align: center;
+    align-content: center;
+}
