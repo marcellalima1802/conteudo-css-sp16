@@ -1,0 +1,28 @@
+/*Importando fonte do Google Fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&family=Poppins:wght@400;700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ex1 {
+    text-decoration: overline red;
+}
+
+.ex2 {
+    text-decoration: line-through olivedrab;
+}
+
+.ex3 {
+    text-decoration: underline orangered;
+}
+
+.ex4 {
+ text-decoration: underline line-through blue;
+}
+
+/*Definindo fonte externa*/
+h2 {
+    font-family: "Poppins", sans-serif;
+}
